@@ -22,3 +22,4 @@ front-end/frontApp
 listener-service/listenerApp
 logger-service/loggerServiceApp
 mail-service/mailerApp
+mail-service/mailerServiceApp
