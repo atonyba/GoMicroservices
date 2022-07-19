@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+project/db-data
+project/caddy_config
+project/caddy_data
+authentication-service/authApp
+broker-service/brokerApp
+front-end/frontApp
+listener-service/listenerApp
+logger-service/loggerServiceApp
+mail-service/mailerApp
